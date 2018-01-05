@@ -26,3 +26,9 @@ function sayHiToGrandma(string)
   if(up===string)
     return "I love you, too.";
 }
+function sayHiToGrandma(string)
+{
+   
+  if(string==="I love you, Grandma.")
+    return "I love you, too.";
+}
